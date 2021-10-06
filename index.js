@@ -56,5 +56,5 @@ function animate(key){
 
     setTimeout(function(){
         mybtn.classList.remove("pressed");
-    },200);
+    },100);
 }
